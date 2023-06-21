@@ -3,9 +3,7 @@
 
 	/**
 	 * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
-	 * followed by a newline
-	 *
-	 * Description:  This function prints the  lowercase alphabet 10 times
+	 * Return: void.
 	 */
 	void print_alphabet_x10(void)
 	{
