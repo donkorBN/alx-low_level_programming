@@ -1,7 +1,9 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by donkor
+	 *
+	 * Code is written by donkor
+	 *
 	 * Return: 0
 	 */
 
